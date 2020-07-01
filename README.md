@@ -17,5 +17,6 @@ Great mention to our dear professor Bouzekri who always encourages us to polish 
 
 ## ABOUT
  - Authors: `Zakaria Ouadrhiri Idrissi Azzouzi` & `Anas Ait El Kouch`
- - Website: http://ip172-18-0-49-brt9b6aosm4g00883tk0-80.direct.labs.play-with-docker.com/
+ - Website: http://ip172-18-0-14-brubk5roudsg00ck6a50-80.direct.labs.play-with-docker.com/ or
+            https://unruffled-ptolemy-9ad039.netlify.app/
  - Git clone: https://github.com/itsanas99/ensa-game.git
